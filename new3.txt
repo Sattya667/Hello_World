@@ -1,2 +1,4 @@
 Hi this 3rd file
+Added new line.
 adding another line to create merge conflict.
+
