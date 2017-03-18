@@ -1,1 +1,2 @@
-Hi this 3rd file
+Hi this 3rd file.
+Added new line.
